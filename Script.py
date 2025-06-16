@@ -3,7 +3,7 @@ class script(object):
 <b><blockquote>Iᴍ Tʜᴇ Mᴏsᴛ Aᴅᴠᴀɴᴄᴇ Aɪ Pᴏᴡᴇʀᴅ Bᴏᴛ.🥰
 Jᴜꜱᴛ Sᴇɴᴅ Mᴇ Aɴʏ Mᴏᴠɪᴇꜱ & Sᴇʀɪᴇꜱ Nᴀᴍᴇ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.</b></blockquote>
 
-<b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/>Mʀ Kʀɪsʜ™</b></spoiler></a>"""
+<b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/KRISH_RULE>Mʀ Kʀɪsʜ™</b></spoiler></a>"""
     
     HELP_TXT = """<b>ʜᴇʏ {},
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
