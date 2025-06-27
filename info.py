@@ -88,7 +88,7 @@ TUTORIAL3 = environ.get('TUTORIAL3', 'https://t.me/safabsovhwi3')
 AUTO_FILE_DELETE = is_enabled((environ.get('AUTO_FILE_DELETE', "True")), False)
 
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002186335716').split()]
-MAX_B_TN = environ.get("MAX_B_TN", "7")
+MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Gck6irmFOH44NDdl')
