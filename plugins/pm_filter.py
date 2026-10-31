@@ -214,7 +214,7 @@ async def next_page(bot, query):
                 InlineKeyboardButton("Qᴜᴀʟɪᴛʏꜱ", callback_data=f"quality#{req}")
             ])
             btn.insert(0, [
-                InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ !", callback_data=f"sendfiles#{key}" style:success)
+                InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ !", callback_data=f"sendfiles#{key}"style:"success")
             ])
         else:
             btn = []
@@ -227,7 +227,7 @@ async def next_page(bot, query):
                 InlineKeyboardButton("Qᴜᴀʟɪᴛʏꜱ", callback_data=f"quality#{req}")
             ])
             btn.insert(0, [
-                InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ !", callback_data=f"sendfiles#{key}" style:success)
+                InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ !", callback_data=f"sendfiles#{key}"style:"success")
             ])
         try:
             if settings['max_btn']:
